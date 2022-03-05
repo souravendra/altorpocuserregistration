@@ -14,7 +14,7 @@
 
 
 1. clone repo
-2. `./start_api.sh dev` to start backend
-3. `./start_ui.sh dev` to start frontend
+2. `./start_api.sh` to start backend
+3. `./start_ui.sh` to start frontend
 
 ---
