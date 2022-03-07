@@ -1,0 +1,18 @@
+{
+    "dev": {
+        "username": "note25",
+        "password": "note25",
+        "database": "notetaker",
+        "host": "127.0.0.1",
+        "dialect": "postgres",
+        "seederStorage": "sequelize"
+    },
+    "test": {
+        "username": "note25",
+        "password": "note25",
+        "database": "notetaker",
+        "host": "127.0.0.1",
+        "dialect": "postgres",
+        "seederStorage": "sequelize"
+    }
+}
